@@ -1,5 +1,5 @@
 # Basic Web Scraper for the Daily Pennsylvanian's Podcast
-This scraper updates the json file daily, but updates the github actions every 6 hours.
+This scraper updates the daily_pennsylvanian_podcasts.json file daily, but updates the github actions every 6 hours.
 
 This scrapes the podcast page for the most recent Podcast episode.
 
